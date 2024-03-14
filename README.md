@@ -1,4 +1,4 @@
-- <div bgcolor='black'>
+- <div color=#fff, bgcolor='black'>
 - h1>👋 Hi, I’m @elchinomandaron</div></h1>
 - this is a simple test for learn to create phsysic whit cancas in javascript
 - and little by little I will update this repo
