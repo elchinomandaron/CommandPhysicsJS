@@ -1,4 +1,6 @@
-- <h1><div bgcolor='black'>👋 Hi, I’m @elchinomandaron</div></h1>
+- <br> 
+- <div bgcolor='black'>
+- h1>👋 Hi, I’m @elchinomandaron</div></h1>
 - this is a simple test for learn to create phsysic whit cancas in javascript
 - and little by little I will update this repo
 - if you can learn to use canvas or created physics you can lear this repo
