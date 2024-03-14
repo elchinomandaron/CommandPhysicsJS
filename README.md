@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @elchinomandaron</h1>
+<h1><center>👋 Hi, I’m @elchinomandaron</center></h1>
 - this is a simple test for learn to create phsysic whit cancas in javascript
 - and little by little I will update this repo
 - if you can learn to use canvas or created physics you can lear this repo
