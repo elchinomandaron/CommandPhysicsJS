@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m @elchinomandaron</h1>
-- ```this is a simple test for learn to create phsysic whit cancas in javascript
+- this is a simple test for learn to create phsysic whit cancas in javascript
 - and little by little I will update this repo
-- if you can learn to use canvas or created physics you can lear this repo```
+- if you can learn to use canvas or created physics you can lear this repo
 - <h3>code: 0%</h3>
 - hablo español nativamente pero hablo español aunque
 - esto lo escribi en ingles ya que es el idioma mundial para que todos puedan
